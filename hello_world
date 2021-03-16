@@ -6,4 +6,5 @@ std::string name;
 std::cin >> s;
 std::cout << "Hello world "<< name << std::endl;
 return 0;
+
 }
